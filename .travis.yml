@@ -2,11 +2,11 @@ language: php
 
 php:
     # We only specify one version so we only get one worker
-	- 5.3
+    - 5.3
     - 5.4
     - 5.5
     - 5.6
-	- master
+    - master
 
 
 # Run PHPs run-tests.php 
