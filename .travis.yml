@@ -11,4 +11,4 @@ php:
 
 # Run PHPs run-tests.php 
 script:
-    - sh run-test.sh
+    - sh run-tests.sh
